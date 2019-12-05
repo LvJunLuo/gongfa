@@ -7,6 +7,9 @@ public class xiuliqiankun {
 		System.out.println("天地无极");
 		System.out.println("乾坤借法");
 		System.out.println("急急如律令");
+		System.out.println("敕~~~~~~");
+		System.out.println("走你！！！！！");
+		
 
 	}
 
