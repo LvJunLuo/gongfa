@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>gongfa_zyz</name>
+=======
+	<name>gongfa</name>
+>>>>>>> branch 'master' of git@github.com:LvJunLuo/gongfa.git
 	<comment></comment>
 	<projects>
 	</projects>
